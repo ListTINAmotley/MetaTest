@@ -1,16 +1,14 @@
 {
     "tokens": [
         {
-            "id": 1,
-            "description": "My NFT",
-            "external_url": "https://nft-detumescence",
+            "description": "This is the first NFT with a fake JSON server",
+            "external_url": "https://nft-detumescence.com",
             "image": "https://gateway.pinata.cloud/ipfs/Qma7CS8cpQwL6uteFoAP5aWvu2tbEf7v7ooS959qVhSrur",
             "name": "Drywall"
         },
         {
-            "id": 2,
-            "description": "My NFT",
-            "external_url": "https://nft-detumescence",
+            "description": "This is the second NFT with a fake JSON server",
+            "external_url": "https://nft-detumescence.com",
             "image": "https://gateway.pinata.cloud/ipfs/QmRPR1MHKMaBfxP8tX6XyAqpse89zzPKfNXmsZKqgFuQcY",
             "name": "Meat"
         }
